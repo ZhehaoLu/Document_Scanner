@@ -1,0 +1,3 @@
+/home/john/Study/OpenCV practice/My_scanner/my_scanner/build/CMakeFiles/rebuild_cache.dir
+/home/john/Study/OpenCV practice/My_scanner/my_scanner/build/CMakeFiles/scanner.dir
+/home/john/Study/OpenCV practice/My_scanner/my_scanner/build/CMakeFiles/edit_cache.dir

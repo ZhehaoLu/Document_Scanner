@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/john/Study/OpenCV practice/My_scanner/my_scanner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DENABLE_SSE -isystem /usr/local/include -isystem /usr/local/include/opencv  -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/scanner.dir/my_scanner.cpp.o -c \"/home/john/Study/OpenCV practice/My_scanner/my_scanner/my_scanner.cpp\"",
+  "file": "/home/john/Study/OpenCV practice/My_scanner/my_scanner/my_scanner.cpp"
+}
+]
